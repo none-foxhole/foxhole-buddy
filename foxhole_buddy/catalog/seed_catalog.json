@@ -1,0 +1,2533 @@
+{
+  "source": "foxhole.wiki.gg (itemdata)",
+  "fetched_at": "2026-06-26T00:00:00+00:00",
+  "item_count": 231,
+  "categories": [
+    {
+      "key": "aircraft_parts",
+      "label": "Aircraft Parts",
+      "subcategories": [
+        {
+          "key": "aircraft_part",
+          "label": "Aircraft Part",
+          "items": [
+            {
+              "name": "Colonial Aircraft Engine (Large)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartLargeEngineC",
+              "crate_amount": null
+            },
+            {
+              "name": "Colonial Aircraft Engine (Small)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartSmallEngineC",
+              "crate_amount": 1
+            },
+            {
+              "name": "Colonial Aircraft Mechanical Parts (Large)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartLargeMechanicalC",
+              "crate_amount": null
+            },
+            {
+              "name": "Colonial Aircraft Mechanical Parts (Small)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartSmallMechanicalC",
+              "crate_amount": 1
+            },
+            {
+              "name": "Warden Aircraft Engine (Large)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartLargeEngineW",
+              "crate_amount": null
+            },
+            {
+              "name": "Warden Aircraft Engine (Small)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartSmallEngineW",
+              "crate_amount": 1
+            },
+            {
+              "name": "Warden Aircraft Mechanical Parts (Large)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartLargeMechanicalW",
+              "crate_amount": null
+            },
+            {
+              "name": "Warden Aircraft Mechanical Parts (Small)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartSmallMechanicalW",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "damaged_aircraft_part",
+          "label": "Damaged Aircraft Part",
+          "items": [
+            {
+              "name": "Damaged Colonial Aircraft Engine (Large)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartLargeEngineWreckedC",
+              "crate_amount": null
+            },
+            {
+              "name": "Damaged Colonial Aircraft Engine (Small)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartSmallEngineWreckedC",
+              "crate_amount": 1
+            },
+            {
+              "name": "Damaged Colonial Aircraft Mechanical Parts (Large)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartLargeMechanicalWreckedC",
+              "crate_amount": null
+            },
+            {
+              "name": "Damaged Colonial Aircraft Mechanical Parts (Small)",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AircraftPartSmallMechanicalWreckedC",
+              "crate_amount": 1
+            },
+            {
+              "name": "Damaged Warden Aircraft Engine (Large)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartLargeEngineWreckedW",
+              "crate_amount": null
+            },
+            {
+              "name": "Damaged Warden Aircraft Engine (Small)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartSmallEngineWreckedW",
+              "crate_amount": 1
+            },
+            {
+              "name": "Damaged Warden Aircraft Mechanical Parts (Large)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartLargeMechanicalWreckedW",
+              "crate_amount": null
+            },
+            {
+              "name": "Damaged Warden Aircraft Mechanical Parts (Small)",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftPartSmallMechanicalWreckedW",
+              "crate_amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "heavy_ammunition",
+      "label": "Heavy Ammunition",
+      "subcategories": [
+        {
+          "key": "artillery_ammo",
+          "label": "Artillery Ammo",
+          "items": [
+            {
+              "name": "120mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "LightArtilleryAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "150mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "HeavyArtilleryAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "300mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "LRArtilleryAmmo",
+              "crate_amount": 1
+            },
+            {
+              "name": "3C-High Explosive Rocket",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "HERocketAmmo",
+              "crate_amount": 1
+            },
+            {
+              "name": "4C-Fire Rocket",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FireRocketAmmo",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "bomb",
+          "label": "Bomb",
+          "items": [
+            {
+              "name": "912 Shrike Rounds",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "DiveBomberAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "Mark II Raidbreaker",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "BomberAmmo",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "depth_charge",
+          "label": "Depth Charge",
+          "items": [
+            {
+              "name": "Model-7 “Evie”",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "DepthChargeAmmo",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "general",
+          "label": "General",
+          "items": [
+            {
+              "name": "Warhead",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": null,
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "magazine",
+          "label": "Magazine",
+          "items": [
+            {
+              "name": "20mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "AircraftAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "Absol Anti-Aircraft Rounds",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "LightAAAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "Flame Ammo",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FlameAmmo",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "propelled_explosive",
+          "label": "Propelled Explosive",
+          "items": [
+            {
+              "name": "250mm “Fury” Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MortarTankAmmoBR",
+              "crate_amount": 5
+            },
+            {
+              "name": "250mm “Purity” Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MortarTankAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "Shatter Missile",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "DemolitionRocketAmmo",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "sea_mine",
+          "label": "Sea Mine",
+          "items": [
+            {
+              "name": "E681-B Hullbreaker Mine",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SurfaceWaterMine",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "shell",
+          "label": "Shell",
+          "items": [
+            {
+              "name": "40mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "LightTankAmmo",
+              "crate_amount": 20
+            },
+            {
+              "name": "68mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ATAmmo",
+              "crate_amount": 20
+            },
+            {
+              "name": "75mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "BattleTankAmmo",
+              "crate_amount": 1
+            },
+            {
+              "name": "94.5mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ATLargeAmmo",
+              "crate_amount": 1
+            },
+            {
+              "name": "950-70b Anti-Aircraft Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "AAAmmo",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "torpedo",
+          "label": "Torpedo",
+          "items": [
+            {
+              "name": "Moray Torpedo",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "TorpedoAmmo",
+              "crate_amount": null
+            },
+            {
+              "name": "Quillback Torpedo",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MiniTorpedoAmmo",
+              "crate_amount": 5
+            },
+            {
+              "name": "Tenta Torpedo",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AircraftTorpedoAmmo",
+              "crate_amount": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "heavy_arms",
+      "label": "Heavy Arms",
+      "subcategories": [
+        {
+          "key": "anti_tank_grenade",
+          "label": "Anti-Tank Grenade",
+          "items": [
+            {
+              "name": "Anti-Tank Sticky Bomb",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "StickyBomb",
+              "crate_amount": 10
+            },
+            {
+              "name": "B2 Varsi Anti-Tank Grenade",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATLaunchedGrenadeW",
+              "crate_amount": 20
+            },
+            {
+              "name": "BF5 White Ash Flask Grenade",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATGrenadeW",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "anti_tank_rifle",
+          "label": "Anti-Tank Rifle",
+          "items": [
+            {
+              "name": "Booker Greyhound Model 910",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATRifleAutomaticW",
+              "crate_amount": 3
+            },
+            {
+              "name": "Neville Anti-Tank Rifle",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATRifleW",
+              "crate_amount": 3
+            },
+            {
+              "name": "“Dawn” Ve.II",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ATRifleLightC",
+              "crate_amount": 3
+            }
+          ]
+        },
+        {
+          "key": "anti_tank_rpg",
+          "label": "Anti-Tank RPG",
+          "items": [
+            {
+              "name": "Bane 45",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ATRPGHeavyC",
+              "crate_amount": 5
+            },
+            {
+              "name": "Bonesaw MK.3",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATRPGW",
+              "crate_amount": 5
+            },
+            {
+              "name": "Carnyx Anti-Tank Rocket Launcher",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATRPGHeavyW",
+              "crate_amount": 5
+            },
+            {
+              "name": "Ignifist 30",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ATRPGLightC",
+              "crate_amount": 10
+            },
+            {
+              "name": "Venom c.II 35",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ATRPGC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "artillery_ammo",
+          "label": "Artillery Ammo",
+          "items": [
+            {
+              "name": "Flare Mortar Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MortarAmmoFL",
+              "crate_amount": 15
+            },
+            {
+              "name": "Incendiary Mortar Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MortarAmmoFlame",
+              "crate_amount": 15
+            },
+            {
+              "name": "Mortar Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MortarAmmo",
+              "crate_amount": 15
+            },
+            {
+              "name": "Shrapnel Mortar Shell",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MortarAmmoSH",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "assault_rifle",
+          "label": "Assault Rifle",
+          "items": [
+            {
+              "name": "228 Satterley Heavy Storm Rifle",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATRifleAssaultW",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "flamethrower",
+          "label": "Flamethrower",
+          "items": [
+            {
+              "name": "Willow's Bane Model 845",
+              "faction": [
+                "warden"
+              ],
+              "codename": "FlameTorchW",
+              "crate_amount": 10
+            },
+            {
+              "name": "“Molten Wind” v.II Flame Torch",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "FlameTorchC",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "grenade_launcher",
+          "label": "Grenade Launcher",
+          "items": [
+            {
+              "name": "KLG901-2 Lunaire F",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "GrenadeLauncherC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "he_grenade",
+          "label": "HE Grenade",
+          "items": [
+            {
+              "name": "Mammon 91-b",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "HEGrenade",
+              "crate_amount": 20
+            },
+            {
+              "name": "Tremola Grenade GPb-1",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "HELaunchedGrenade",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "magazine",
+          "label": "Magazine",
+          "items": [
+            {
+              "name": "14.5mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ATRifleAmmo",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "mortar",
+          "label": "Mortar",
+          "items": [
+            {
+              "name": "Cremari Mortar",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Mortar",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "mounted_anti_tank_rifle",
+          "label": "Mounted Anti-Tank Rifle",
+          "items": [
+            {
+              "name": "“Typhon” ra.XII",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ATRifleTC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "mounted_anti_tank_rpg",
+          "label": "Mounted Anti-Tank RPG",
+          "items": [
+            {
+              "name": "Mounted Bonesaw MK.3",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ATRPGTW",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "mounted_grenade_launcher",
+          "label": "Mounted Grenade Launcher",
+          "items": [
+            {
+              "name": "Mounted Fissura gd.I",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "GrenadeLauncherTC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "mounted_infantry_support_gun",
+          "label": "Mounted Infantry Support Gun",
+          "items": [
+            {
+              "name": "Daucus isg.III",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ISGTC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "mounted_machinegun",
+          "label": "Mounted Machinegun",
+          "items": [
+            {
+              "name": "Lamentum mm.IV",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "MGTC",
+              "crate_amount": 5
+            },
+            {
+              "name": "Malone Ratcatcher MK.1",
+              "faction": [
+                "warden"
+              ],
+              "codename": "MGTW",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "mounted_rpg_launcher",
+          "label": "Mounted RPG Launcher",
+          "items": [
+            {
+              "name": "Cutler Foebreaker",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RPGTW",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "propelled_explosive",
+          "label": "Propelled Explosive",
+          "items": [
+            {
+              "name": "AP⧸RPG",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ATRPGAmmo",
+              "crate_amount": 15
+            },
+            {
+              "name": "ARC⧸RPG",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ATRPGIndirectAmmo",
+              "crate_amount": 15
+            },
+            {
+              "name": "RPG",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RpgAmmo",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "rpg_launcher",
+          "label": "RPG Launcher",
+          "items": [
+            {
+              "name": "Cutler Launcher 4",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RpgW",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "shell",
+          "label": "Shell",
+          "items": [
+            {
+              "name": "30mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MiniTankAmmo",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "sniper_rifle",
+          "label": "Sniper Rifle",
+          "items": [
+            {
+              "name": "“Quickhatch” Rt.I",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ATRifleSniperC",
+              "crate_amount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "medical",
+      "label": "Medical",
+      "subcategories": [
+        {
+          "key": "general",
+          "label": "General",
+          "items": [
+            {
+              "name": "Bandages",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Bandages",
+              "crate_amount": 50
+            },
+            {
+              "name": "Blood Plasma",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "BloodPlasma",
+              "crate_amount": 50
+            },
+            {
+              "name": "Critically Wounded Soldier",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "CriticalSoldier",
+              "crate_amount": null
+            },
+            {
+              "name": "First Aid Kit",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FirstAidKit",
+              "crate_amount": 10
+            },
+            {
+              "name": "Trauma Kit",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "TraumaKit",
+              "crate_amount": 10
+            },
+            {
+              "name": "Wounded Player",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WoundedCarriedPlayer",
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "supplies",
+          "label": "Supplies",
+          "items": [
+            {
+              "name": "Soldier Supplies",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SoldierSupplies",
+              "crate_amount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "resource",
+      "label": "Resource",
+      "subcategories": [
+        {
+          "key": "general",
+          "label": "General",
+          "items": [
+            {
+              "name": "Bunker Supplies",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "BunkerSupplies",
+              "crate_amount": null
+            },
+            {
+              "name": "Strong Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": null,
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "large_material",
+          "label": "Large Material",
+          "items": [
+            {
+              "name": "Assembly Materials I",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials4",
+              "crate_amount": 1
+            },
+            {
+              "name": "Assembly Materials II",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials5",
+              "crate_amount": 1
+            },
+            {
+              "name": "Assembly Materials III",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials6",
+              "crate_amount": 1
+            },
+            {
+              "name": "Assembly Materials IV",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials7",
+              "crate_amount": 1
+            },
+            {
+              "name": "Assembly Materials V",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials8",
+              "crate_amount": 1
+            },
+            {
+              "name": "Concrete Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Concrete",
+              "crate_amount": null
+            },
+            {
+              "name": "Pipe",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "PipeMaterials",
+              "crate_amount": 2
+            },
+            {
+              "name": "Processed Construction Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials2",
+              "crate_amount": 1
+            },
+            {
+              "name": "Rare Alloys",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials9",
+              "crate_amount": 1
+            },
+            {
+              "name": "Steel Construction Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials3",
+              "crate_amount": 1
+            },
+            {
+              "name": "Thermal Shielding",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials11",
+              "crate_amount": 1
+            },
+            {
+              "name": "Unstable Substances",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials10",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "liquid",
+          "label": "Liquid",
+          "items": [
+            {
+              "name": "Diesel",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Diesel",
+              "crate_amount": 1
+            },
+            {
+              "name": "Enriched Oil",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityOil2",
+              "crate_amount": 1
+            },
+            {
+              "name": "Heavy Oil",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityOil1",
+              "crate_amount": 1
+            },
+            {
+              "name": "Oil",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Oil",
+              "crate_amount": 1
+            },
+            {
+              "name": "Petrol",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Petrol",
+              "crate_amount": 1
+            },
+            {
+              "name": "Water",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Water",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "material",
+          "label": "Material",
+          "items": [
+            {
+              "name": "Basic Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Cloth",
+              "crate_amount": 100
+            },
+            {
+              "name": "Coke",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityCoal1",
+              "crate_amount": null
+            },
+            {
+              "name": "Construction Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials1",
+              "crate_amount": 20
+            },
+            {
+              "name": "Explosive Powder",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Explosive",
+              "crate_amount": 40
+            },
+            {
+              "name": "Gravel",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "GroundMaterials",
+              "crate_amount": 20
+            },
+            {
+              "name": "Heavy Explosive Powder",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "HeavyExplosive",
+              "crate_amount": 30
+            },
+            {
+              "name": "Rare Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityMaterials12",
+              "crate_amount": null
+            },
+            {
+              "name": "Refined Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Wood",
+              "crate_amount": 20
+            },
+            {
+              "name": "Relic Materials",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RelicMaterials",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "raw_resource",
+          "label": "Raw Resource",
+          "items": [
+            {
+              "name": "Aluminum",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Aluminum",
+              "crate_amount": null
+            },
+            {
+              "name": "Coal",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Coal",
+              "crate_amount": null
+            },
+            {
+              "name": "Components",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Components",
+              "crate_amount": null
+            },
+            {
+              "name": "Copper",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Copper",
+              "crate_amount": null
+            },
+            {
+              "name": "Damaged Components",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FacilityComponents1",
+              "crate_amount": null
+            },
+            {
+              "name": "Iron",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Iron",
+              "crate_amount": null
+            },
+            {
+              "name": "Rare Metal",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RareMetal",
+              "crate_amount": null
+            },
+            {
+              "name": "Salvage",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Metal",
+              "crate_amount": null
+            },
+            {
+              "name": "Salvage",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Metal",
+              "crate_amount": null
+            },
+            {
+              "name": "Sulfur",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Sulfur",
+              "crate_amount": null
+            },
+            {
+              "name": "Wreckage",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Wreckage",
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "supplies",
+          "label": "Supplies",
+          "items": [
+            {
+              "name": "Maintenance Supplies",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MaintenanceSupplies",
+              "crate_amount": 100
+            }
+          ]
+        },
+        {
+          "key": "technology_material",
+          "label": "Technology Material",
+          "items": [
+            {
+              "name": "Aluminum Alloy",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "AluminumA",
+              "crate_amount": 20
+            },
+            {
+              "name": "Copper Alloy",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "CopperA",
+              "crate_amount": 20
+            },
+            {
+              "name": "Iron Alloy",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "IronA",
+              "crate_amount": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "small_arms",
+      "label": "Small Arms",
+      "subcategories": [
+        {
+          "key": "assault_rifle",
+          "label": "Assault Rifle",
+          "items": [
+            {
+              "name": "Aalto Storm Rifle 24",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AssaultRifleW",
+              "crate_amount": 20
+            },
+            {
+              "name": "Booker Storm Rifle Model 838",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AssaultRifleHeavyW",
+              "crate_amount": 20
+            },
+            {
+              "name": "“Dusk” ce.III",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AssaultRifleHeavyC",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "gas_grenade",
+          "label": "Gas Grenade",
+          "items": [
+            {
+              "name": "Green Ash Grenade",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "GreenAsh",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "general",
+          "label": "General",
+          "items": [
+            {
+              "name": "14.5mm (old)",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "FieldMGAmmo",
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "grenade",
+          "label": "Grenade",
+          "items": [
+            {
+              "name": "A3 Harpa Fragmentation Grenade",
+              "faction": [
+                "warden"
+              ],
+              "codename": "GrenadeW",
+              "crate_amount": 20
+            },
+            {
+              "name": "Bomastone Grenade",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "GrenadeC",
+              "crate_amount": 25
+            }
+          ]
+        },
+        {
+          "key": "heavy_rifle",
+          "label": "Heavy Rifle",
+          "items": [
+            {
+              "name": "The Hangman 757",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RifleHeavyW",
+              "crate_amount": 20
+            },
+            {
+              "name": "Volta r.I Repeater",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "RifleHeavyC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "light_machine_gun",
+          "label": "Light Machine Gun",
+          "items": [
+            {
+              "name": "Catara mo.II",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "AssaultRifleC",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "long_rifle",
+          "label": "Long Rifle",
+          "items": [
+            {
+              "name": "Clancy Cinder M3",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RifleLongW",
+              "crate_amount": 15
+            },
+            {
+              "name": "KRR2-790 Omen",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "RifleLongC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "machine_gun",
+          "label": "Machine Gun",
+          "items": [
+            {
+              "name": "KRN886-127 Gast Machine Gun",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "MGC",
+              "crate_amount": 5
+            },
+            {
+              "name": "Malone MK.2",
+              "faction": [
+                "warden"
+              ],
+              "codename": "MGW",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "magazine",
+          "label": "Magazine",
+          "items": [
+            {
+              "name": ".44 Mag",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RevolverAmmo",
+              "crate_amount": 40
+            },
+            {
+              "name": "12.7mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MGAmmo",
+              "crate_amount": 20
+            },
+            {
+              "name": "7.62mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RifleAmmo",
+              "crate_amount": 40
+            },
+            {
+              "name": "7.92mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "AssaultRifleAmmo",
+              "crate_amount": 30
+            },
+            {
+              "name": "8mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "PistolAmmo",
+              "crate_amount": 40
+            },
+            {
+              "name": "9mm",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SMGAmmo",
+              "crate_amount": 40
+            },
+            {
+              "name": "Buckshot",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ShotgunAmmo",
+              "crate_amount": 40
+            }
+          ]
+        },
+        {
+          "key": "pistol",
+          "label": "Pistol",
+          "items": [
+            {
+              "name": "Ahti Model 2",
+              "faction": [
+                "warden"
+              ],
+              "codename": "PistolW",
+              "crate_amount": null
+            },
+            {
+              "name": "Cascadier 873",
+              "faction": [
+                "warden"
+              ],
+              "codename": "PistolLightW",
+              "crate_amount": 40
+            },
+            {
+              "name": "Ferro 879",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "PistolC",
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "revolver",
+          "label": "Revolver",
+          "items": [
+            {
+              "name": "Cometa T2-9",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Revolver",
+              "crate_amount": 30
+            }
+          ]
+        },
+        {
+          "key": "rifle",
+          "label": "Rifle",
+          "items": [
+            {
+              "name": "Argenti r.II Rifle",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "RifleC",
+              "crate_amount": 20
+            },
+            {
+              "name": "Blakerow 871",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RifleLightW",
+              "crate_amount": 20
+            },
+            {
+              "name": "Catena rt.IV Auto-Rifle",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "RifleAutomaticC",
+              "crate_amount": 15
+            },
+            {
+              "name": "Fuscina pi.I",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "RifleLightC",
+              "crate_amount": 20
+            },
+            {
+              "name": "No.2 Loughcaster",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RifleW",
+              "crate_amount": 20
+            },
+            {
+              "name": "No.2B Hawthorne",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RifleShortW",
+              "crate_amount": 15
+            },
+            {
+              "name": "Sampo Auto-Rifle 77",
+              "faction": [
+                "warden"
+              ],
+              "codename": "RifleAutomaticW",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "shotgun",
+          "label": "Shotgun",
+          "items": [
+            {
+              "name": "Brasa Shotgun",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": null,
+              "crate_amount": 20
+            },
+            {
+              "name": "KRF1-750 Dragonfly",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ShotgunC",
+              "crate_amount": 15
+            },
+            {
+              "name": "No.4 The Pillory Scattergun",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ShotgunW",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "smoke_grenade",
+          "label": "Smoke Grenade",
+          "items": [
+            {
+              "name": "PT-815 Smoke Grenade",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SmokeGrenade",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "sniper_rifle",
+          "label": "Sniper Rifle",
+          "items": [
+            {
+              "name": "Clancy-Raca M4",
+              "faction": [
+                "warden"
+              ],
+              "codename": "SniperRifleW",
+              "crate_amount": 3
+            },
+            {
+              "name": "KRR3-792 Auger",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "SniperRifleC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "submachine_gun",
+          "label": "Submachine Gun",
+          "items": [
+            {
+              "name": "Fiddler Submachine Gun Model 868",
+              "faction": [
+                "warden"
+              ],
+              "codename": "SMGW",
+              "crate_amount": 20
+            },
+            {
+              "name": "No.1 “The Liar” Submachine Gun",
+              "faction": [
+                "warden"
+              ],
+              "codename": "SMGHeavyW",
+              "crate_amount": 20
+            },
+            {
+              "name": "“Lionclaw” mc.VIII",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "SMGHeavyC",
+              "crate_amount": 20
+            },
+            {
+              "name": "“The Pitch Gun” mc.V",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "SMGC",
+              "crate_amount": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "uniforms",
+      "label": "Uniforms",
+      "subcategories": [
+        {
+          "key": "armour_uniform",
+          "label": "Armour Uniform",
+          "items": [
+            {
+              "name": "Gunner's Breastplate",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ArmourUniformW",
+              "crate_amount": 5
+            },
+            {
+              "name": "Velian Flak Vest",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ArmourUniformC",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "engineer_uniform",
+          "label": "Engineer Uniform",
+          "items": [
+            {
+              "name": "Fabri Rucksack",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "EngineerUniformC",
+              "crate_amount": 15
+            },
+            {
+              "name": "Sapper Gear",
+              "faction": [
+                "warden"
+              ],
+              "codename": "EngineerUniformW",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "grenade_uniform",
+          "label": "Grenade Uniform",
+          "items": [
+            {
+              "name": "Grenadier's Baldric",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "GrenadeUniformC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "heavy_ammo_uniform",
+          "label": "Heavy Ammo Uniform",
+          "items": [
+            {
+              "name": "Specialist's Overcoat",
+              "faction": [
+                "warden"
+              ],
+              "codename": "AmmoUniformW",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "medic_uniform",
+          "label": "Medic Uniform",
+          "items": [
+            {
+              "name": "Medic Fatigues",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "MedicUniformC",
+              "crate_amount": 15
+            },
+            {
+              "name": "Physician's Jacket",
+              "faction": [
+                "warden"
+              ],
+              "codename": "MedicUniformW",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "naval_uniform",
+          "label": "Naval Uniform",
+          "items": [
+            {
+              "name": "Gentleman's Peacoat",
+              "faction": [
+                "warden"
+              ],
+              "codename": "NavalUniformW",
+              "crate_amount": 15
+            },
+            {
+              "name": "Remex Garb",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "NavalUniformC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "officer_uniform",
+          "label": "Officer Uniform",
+          "items": [
+            {
+              "name": "Officer's Regalia",
+              "faction": [
+                "warden"
+              ],
+              "codename": "OfficerUniformW",
+              "crate_amount": 3
+            },
+            {
+              "name": "Officialis' Attire",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "OfficerUniformC",
+              "crate_amount": 3
+            }
+          ]
+        },
+        {
+          "key": "paratrooper_uniform",
+          "label": "Paratrooper Uniform",
+          "items": [
+            {
+              "name": "Auster's Harness",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ParatrooperUniformC",
+              "crate_amount": 15
+            },
+            {
+              "name": "Cloudrunner's Vesture",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ParatrooperUniformW",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "pilot_uniform",
+          "label": "Pilot Uniform",
+          "items": [
+            {
+              "name": "Aviator's Raiment",
+              "faction": [
+                "warden"
+              ],
+              "codename": "PilotUniformW",
+              "crate_amount": 1
+            },
+            {
+              "name": "Lodesman's Lorica",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "PilotUniformC",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "rain_uniform",
+          "label": "Rain Uniform",
+          "items": [
+            {
+              "name": "Legionary's Oilcoat",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "RainUniformC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "scout_uniform",
+          "label": "Scout Uniform",
+          "items": [
+            {
+              "name": "Outrider's Mantle",
+              "faction": [
+                "warden"
+              ],
+              "codename": "ScoutUniformW",
+              "crate_amount": 15
+            },
+            {
+              "name": "Recon Camo",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ScoutUniformC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "snow_uniform",
+          "label": "Snow Uniform",
+          "items": [
+            {
+              "name": "Caoivish Parka",
+              "faction": [
+                "warden"
+              ],
+              "codename": "SnowUniformW",
+              "crate_amount": 15
+            },
+            {
+              "name": "Heavy Topcoat",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "SnowUniformC",
+              "crate_amount": 15
+            }
+          ]
+        },
+        {
+          "key": "soldier_uniform",
+          "label": "Soldier Uniform",
+          "items": [
+            {
+              "name": "Infantry Battledress",
+              "faction": [
+                "warden"
+              ],
+              "codename": "SoldierUniformW",
+              "crate_amount": null
+            },
+            {
+              "name": "Legionary Fatigues",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "SoldierUniformC",
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "tank_uniform",
+          "label": "Tank Uniform",
+          "items": [
+            {
+              "name": "Padded Boiler Suit",
+              "faction": [
+                "warden"
+              ],
+              "codename": "TankUniformW",
+              "crate_amount": 15
+            },
+            {
+              "name": "Tankman's Coveralls",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "TankUniformC",
+              "crate_amount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "utility",
+      "label": "Utility",
+      "subcategories": [
+        {
+          "key": "backpack",
+          "label": "Backpack",
+          "items": [
+            {
+              "name": "Paratrooper's Ruck",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ParatrooperBackpack",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "bayonet",
+          "label": "Bayonet",
+          "items": [
+            {
+              "name": "Buckhorn CCQ-18",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Bayonet",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "bouy",
+          "label": "Bouy",
+          "items": [
+            {
+              "name": "Naval Buoy",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WaterWallItem",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "explosive_charge",
+          "label": "Explosive Charge",
+          "items": [
+            {
+              "name": "Abisme AT-99",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "TankMine",
+              "crate_amount": 10
+            },
+            {
+              "name": "Alligator Charge",
+              "faction": [
+                "warden"
+              ],
+              "codename": "SatchelChargeW",
+              "crate_amount": 5
+            },
+            {
+              "name": "Crow's Foot Mine",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "InfantryMine",
+              "crate_amount": 10
+            },
+            {
+              "name": "Havoc Charge",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ExplosiveTripod",
+              "crate_amount": 5
+            },
+            {
+              "name": "Havoc Charge Detonator",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SatchelChargeT",
+              "crate_amount": 5
+            },
+            {
+              "name": "Hydra's Whisper",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "ExplosiveLightC",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "field_gear",
+          "label": "Field Gear",
+          "items": [
+            {
+              "name": "Binoculars",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Binoculars",
+              "crate_amount": 5
+            },
+            {
+              "name": "Flight Mask",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": null,
+              "crate_amount": 5
+            },
+            {
+              "name": "Gas Mask",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "GasMask",
+              "crate_amount": 20
+            },
+            {
+              "name": "Gas Mask Filter",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "GasMaskFilter",
+              "crate_amount": 20
+            },
+            {
+              "name": "Liaison Transmitter",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RadioAircraft",
+              "crate_amount": 5
+            },
+            {
+              "name": "Radio",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Radio",
+              "crate_amount": 5
+            },
+            {
+              "name": "Radio Backpack",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "RadioBackpack",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "field_tool",
+          "label": "Field Tool",
+          "items": [
+            {
+              "name": "Hammer",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WorkHammer",
+              "crate_amount": null
+            },
+            {
+              "name": "Shovel",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Shovel",
+              "crate_amount": 10
+            },
+            {
+              "name": "Sledge Hammer",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SledgeHammer",
+              "crate_amount": 10
+            },
+            {
+              "name": "Water Bucket",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WaterBucket",
+              "crate_amount": 50
+            },
+            {
+              "name": "Wrench",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WorkWrench",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "flamethrower_ammo",
+          "label": "Flamethrower Ammo",
+          "items": [
+            {
+              "name": "Willow's Bane Ammo",
+              "faction": [
+                "warden"
+              ],
+              "codename": "FlameBackpackW",
+              "crate_amount": 10
+            },
+            {
+              "name": "“Molten Wind” v.II Ammo",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "FlameBackpackC",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "general",
+          "label": "General",
+          "items": [
+            {
+              "name": "Rocket Booster",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": null,
+              "crate_amount": null
+            }
+          ]
+        },
+        {
+          "key": "grenade_launcher",
+          "label": "Grenade Launcher",
+          "items": [
+            {
+              "name": "The Ospreay",
+              "faction": [
+                "warden"
+              ],
+              "codename": "GrenadeAdapter",
+              "crate_amount": 20
+            }
+          ]
+        },
+        {
+          "key": "large_material",
+          "label": "Large Material",
+          "items": [
+            {
+              "name": "Barbed Wire",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "BarbedWireMaterials",
+              "crate_amount": 5
+            },
+            {
+              "name": "Metal Beam",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "MetalBeamMaterials",
+              "crate_amount": 5
+            },
+            {
+              "name": "Sandbag",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "SandbagMaterials",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "melee_weapon",
+          "label": "Melee Weapon",
+          "items": [
+            {
+              "name": "Eleos Infantry Dagger",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "SwordC",
+              "crate_amount": 10
+            },
+            {
+              "name": "Falias Raiding Club",
+              "faction": [
+                "warden"
+              ],
+              "codename": "MaceW",
+              "crate_amount": 10
+            }
+          ]
+        },
+        {
+          "key": "mounted_equipment",
+          "label": "Mounted Equipment",
+          "items": [
+            {
+              "name": "Air Raid Siren",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": null,
+              "crate_amount": 5
+            },
+            {
+              "name": "Legion Vexillum",
+              "faction": [
+                "colonial"
+              ],
+              "codename": "BannerTC",
+              "crate_amount": 5
+            },
+            {
+              "name": "Listening Kit",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "ListeningKit",
+              "crate_amount": 5
+            },
+            {
+              "name": "War Ensign",
+              "faction": [
+                "warden"
+              ],
+              "codename": "BannerTW",
+              "crate_amount": 5
+            },
+            {
+              "name": "Wind Sock",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WindsockT",
+              "crate_amount": 5
+            }
+          ]
+        },
+        {
+          "key": "sea_mine",
+          "label": "Sea Mine",
+          "items": [
+            {
+              "name": "E680-S Rudder Lock",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "WaterMine",
+              "crate_amount": 1
+            }
+          ]
+        },
+        {
+          "key": "tripod_mount",
+          "label": "Tripod Mount",
+          "items": [
+            {
+              "name": "Tripod",
+              "faction": [
+                "colonial",
+                "warden"
+              ],
+              "codename": "Tripod",
+              "crate_amount": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

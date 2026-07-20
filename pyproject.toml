@@ -1,0 +1,28 @@
+[project]
+name = "foxhole-buddy"
+version = "1.0.0"
+description = "A Discord logistics & operations bot for Foxhole regiments."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "discord.py>=2.4,<3",
+]
+
+[project.scripts]
+foxhole-buddy = "main:main"
+
+[tool.setuptools]
+packages = ["foxhole_buddy"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+# Module-level re-exports in store.py intentionally shadow names for back-compat.
+ignore = ["E501"]
